@@ -383,9 +383,12 @@
     "updated": "2026-01-30T00:00:00",
     "trsID": "#workflow/github.com/iwc-workflows/short-read-qc-trimming/main",
     "iwcID": "short-read-qc-trimming-main",
+    "repoPath": "./workflows/read-preprocessing/short-read-qc-trimming",
     "dockstore_id": 34575,
     "categories": [],
-    "collections": [],
+    "collections": [
+        "Quality Control and Pre-processing"
+    ],
     "doi": "10.5281/zenodo.17805254",
     "tests": [
         {
