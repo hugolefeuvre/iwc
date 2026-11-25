@@ -877,10 +877,31 @@
     "updated": "2023-11-20T00:00:00",
     "trsID": "#workflow/github.com/iwc-workflows/fragment-based-docking-scoring/main",
     "iwcID": "fragment-based-docking-scoring-main",
+    "workflowFile": "fragment-based-docking-scoring-main.ga",
+    "testFile": "fragment-based-docking-scoring-main-tests.yml",
     "repoPath": "./workflows/computational-chemistry/fragment-based-docking-scoring",
     "dockstore_id": 17269,
     "categories": [
-        "Structural Biology"
+        "Structural Biology",
+        "Ligand-binding site prediction",
+        "Molecular docking",
+        "Protein-ligand docking",
+        "Structure comparison",
+        "Virtual screening",
+        "Computational chemistry",
+        "Drug development",
+        "Drug discovery",
+        "Molecular modeling",
+        "PDB",
+        "SDF",
+        "SMILES",
+        "Protein structure",
+        "Small molecule structure",
+        "SMILES string",
+        "SDF",
+        "Protein-ligand complex",
+        "Score",
+        "Small molecule structure"
     ],
     "collections": [
         "Computational Chemistry"

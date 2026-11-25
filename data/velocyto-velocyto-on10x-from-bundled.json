@@ -404,9 +404,24 @@
     "updated": "2025-10-08T00:00:00",
     "trsID": "#workflow/github.com/iwc-workflows/velocyto/Velocyto-on10X-from-bundled",
     "iwcID": "velocyto-velocyto-on10x-from-bundled",
+    "workflowFile": "velocyto-velocyto-on10x-from-bundled.ga",
+    "testFile": "velocyto-velocyto-on10x-from-bundled-tests.yml",
     "repoPath": "./workflows/scRNAseq/velocyto",
     "dockstore_id": 25201,
-    "categories": [],
+    "categories": [
+        "RNA-Seq quantification",
+        "RNA velocity analysis",
+        "Sequence read processing",
+        "Developmental biology",
+        "Gene expression",
+        "Single-cell sequencing",
+        "Transcriptomics",
+        "BAM",
+        "GTF",
+        "Loom",
+        "RNA velocity data",
+        "Single-cell count matrix"
+    ],
     "collections": [
         "Single Cell"
     ],
